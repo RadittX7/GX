@@ -24,6 +24,7 @@
   [Layer 7]
   • GX [VIP]
   • BYPASS [VIP]
+  • STRES [VIP]
   • HTTPS-STORM [VIP]
   • HTTPS-STORM2 [VIP]
   • TLS [VIP]
