@@ -23,6 +23,7 @@
 ```sh
   [Layer 7]
   • GX [VIP]
+  • BYPASS [VIP]
   • HTTPS-STORM [VIP]
   • HTTPS-STORM2 [VIP]
   • TLS [VIP]
@@ -34,7 +35,8 @@
   • TCP-BYPASS [VIP]
   • TCP [VIP]
   • NET [VIP]
-  • NET [VIP]
+  • WIZ [VIP]
+  • XYN [VIP]
 
 ```
 
