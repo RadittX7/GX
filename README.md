@@ -6,7 +6,7 @@
  <a href="https://github.com/RadittX7/GX/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/HASOKI?color=purple&style=for-the-badge"></a>
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
- 𝐆𝐗 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 <br/><br/>
+𝐆𝐗 𝐈𝐍𝐅𝐈𝐍𝐈𝐓𝐘 <br/><br/>
  This Is Open Source Code. I Am Not Responsible If You Use It For Malicious Attacks!
 </div>
 
