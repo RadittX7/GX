@@ -11,6 +11,7 @@
 </div>
 
 ```sh
+- [x] LAYER - 12
 - [x] LAYER - 7
 - [x] LAYER - 4
 ```
@@ -21,6 +22,10 @@
 ## Methods
 
 ```sh
+  [Layer 7]
+  • SSL [VIP]
+  • CF [VIP]
+
   [Layer 7]
   • GX [VIP]
   • BYPASS [VIP]
