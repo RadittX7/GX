@@ -23,6 +23,7 @@
 
 ```sh
   [Layer 12]
+  • ZNX [VIP]
   • SSL [VIP]
   • CF [VIP]
 
