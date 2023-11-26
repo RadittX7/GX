@@ -22,7 +22,7 @@
 ## Methods
 
 ```sh
-  [Layer 7]
+  [Layer 12]
   • SSL [VIP]
   • CF [VIP]
 
