@@ -6,9 +6,9 @@
  <a href="https://github.com/RadittX7/GX/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/HASOKI?color=purple&style=for-the-badge"></a>
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
- <img src="https://github.com/RadittX7/Logo/raw/main/20231129_215624.png"/>
+ <img src="https://github.com/RadittX7/Logo/raw/main/20231129_215624.png"/> &nbsp;
 </div>
- <img src="https://github.com/RadittX7/Logo/raw/main/20231129_221657.png"/>
+ <img src="https://github.com/RadittX7/Logo/raw/main/20231129_221657.png"/> &nbsp;
 </div>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
