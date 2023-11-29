@@ -7,23 +7,7 @@
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <style>
-    .rounded-image {
-      border-radius: 50%;
-    }
-  </style>
-</head>
-<body>
-
-  <img src="https://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg" alt="Gambar Bulat" class="rounded-image">
-
-</body>
-</html>
-
+<img src="https://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg" alt="Gambar" style="border-radius: 50%;">
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
