@@ -7,13 +7,6 @@
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
-<style>
-  .gambar-bulat {
-    border-radius: 50%;
-  }
-</style>
-
-<img src="https://github.com/RadittX7/Logo/raw/main/1687277568223.jpg" alt="Deskripsi gambar" class="gambar-bulat">
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
 </p>
