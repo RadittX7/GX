@@ -7,9 +7,9 @@
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/> &nbsp;
 </p>
  <img src="https://github.com/RadittX7/Logo/raw/main/20231129_215624.png"/> &nbsp;
-</div>
+</p>
  <img src="https://github.com/RadittX7/Logo/raw/main/20231129_221657.png"/> &nbsp;
-</div>
+</p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
   <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank"><img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/></a>
