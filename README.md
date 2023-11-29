@@ -8,8 +8,14 @@
   </p>
   <div align="center">
   <h2>🔥 SPOTIFY 🔥</h2>
-  <img src="https://raw.githubusercontent.com/Zyrenn/Mihye/main/1.jpg" alt="Deskripsi gambar" style="border-radius: 50%;">
   <p align="center">
+    src="https://github.com/RadittX7/Logo/raw/main/20231129_215624.png">
+</div>
+<br>
+</p>
+<div>
+<img src="https://github.com/RadittX7/Logo/raw/main/20231129_220454.png" align="right">
+<div>
     <a href="https://open.spotify.com/track/4bNvS25ZVMCvLHEUV87mp4?si=yb1PaPVnRgiTYedy8r6i_g&utm_source=copy-link&context=spotify%3Aplaylist%3A37i9dQZF1EIVoBTSiHHsdx&dl_branch=1" target="_blank">
       <img src="https://now-playing-on-spotify.vercel.app/api/spotify" alt="Spotify Now Playing" width="350"/>
     </a>
