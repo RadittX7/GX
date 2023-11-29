@@ -70,6 +70,6 @@
 
 ## Contact Developer
 ```sh
- https://t.me/RaditX7
+ <h4><font size="2"><a href="https://t.me/ZennTzyy"><font color="red">TELEGRAM</font>
 ```
 
