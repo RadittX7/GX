@@ -69,7 +69,4 @@
 ```
 
 ## Contact Developer
-```sh
- <h4><font size="2"><a href="https://t.me/ZennTzyy"><font color="red">TELEGRAM</font>
-```
-
+<h4><font size="2"><a href="https://t.me/ZennTzyy"><font color="red">TELEGRAM</font>
