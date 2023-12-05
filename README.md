@@ -32,6 +32,7 @@
   [Layer 12]
   • ZNX [VIP]
   • SSL [VIP]
+  • VTX [VIP]
   • CF [VIP]
 
   [Layer 7]
