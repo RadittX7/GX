@@ -6,7 +6,7 @@
  <a href="https://github.com/RadittX7/GX/issues"><img alt="MatrixTM issues" src="https://img.shields.io/github/issues/cutipu/HASOKI?color=purple&style=for-the-badge"></a>
    <img src="https://img.shields.io/github/license/cutipu/HASOKI?color=%23E8E8E8&style=for-the-badge"/>
 </p>
- <img src="https://github.com/RadittX7/Logo/raw/main/20231129_215624.png"/>
+ <img src="https://raw.githubusercontent.com/RadittX7/Logo/main/1687277568223.jpg"/>
 </p>
 <h2 align="center">🔥 SPOTIFY 🔥</h2>
 <p align="center">
